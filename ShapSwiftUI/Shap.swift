@@ -8,13 +8,13 @@
 import SwiftUI
 import Foundation
 
-struct Shap: Shape {
-    func path(in rect: CGRect) -> Path {
-        <#code#>
-    }
-    
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
-}
+//struct Shap: Shape {
+//    func path(in rect: CGRect) -> Path {
+//        
+//    }
+//    
+//    var body: some View {
+//        Text("Hello, World!")
+//    }
+//}
 
